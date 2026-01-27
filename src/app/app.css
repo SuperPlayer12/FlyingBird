@@ -1,8 +1,36 @@
-.row{
-    display: flex;
-
+body {
+    text-align:center;
 }
-.przycisk{
-    width:100px;
-    height:100px;
+div{
+    background-color: rgb(32, 27, 26);
+    font-family:Arial;
+    text-align:right;
+    padding:20px;
+    width:620px;
+    vertical-align: middle;
+}
+*{
+    font-size: 100px;
+}
+table, tr, th{
+    border:3px;
+    border-color:blue;
+}
+td{
+    text-align: center;
+}
+h1{
+    margin:0;
+    padding:0;
+    color:green;
+
+    background-color: black;
+}
+button{
+    height:150px;
+    width:150px;
+    border-radius:10%;
+}
+button.czyszczenie{
+    margin-left:10px
 }

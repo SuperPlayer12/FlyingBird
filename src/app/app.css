@@ -1,0 +1,8 @@
+.row{
+    display: flex;
+
+}
+.przycisk{
+    width:100px;
+    height:100px;
+}
